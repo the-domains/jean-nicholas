@@ -1,14 +1,26 @@
-layout_spectrum: 0.4936395
-typography_spectrum: 0.7731822
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.3860204
-  lightness: 0.299275
+  saturation: 0.6075269
   brandStrength: 0.9498208
+  lightness: 0.3727598
   brandColors:
-    - '#0A0F12'
-    - '#C8D9F3'
-    - '#523C31'
-    - '#A37E63'
-    - '#5C8FBA'
-  rhythmicContrast: 0.8177485
+    - '#F5F6F8'
+    - '#141519'
+    - '#314C5F'
+    - '#C0BEBF'
+    - '#27A8BA'
+  rhythmicContrast: 0.4283154
+typography_spectrum: 0.9318997
+layout_spectrum: 0.2007169
 name: Jean-Nicholas
